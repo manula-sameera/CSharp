@@ -1,0 +1,15 @@
+d:\UoVT\Sem2\vp\C#\Ex4\bin\Debug\net6.0\Ex4.exe
+d:\UoVT\Sem2\vp\C#\Ex4\bin\Debug\net6.0\Ex4.deps.json
+d:\UoVT\Sem2\vp\C#\Ex4\bin\Debug\net6.0\Ex4.runtimeconfig.json
+d:\UoVT\Sem2\vp\C#\Ex4\bin\Debug\net6.0\Ex4.dll
+d:\UoVT\Sem2\vp\C#\Ex4\bin\Debug\net6.0\Ex4.pdb
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\Ex4.csproj.AssemblyReference.cache
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfoInputs.cache
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfo.cs
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\Ex4.csproj.CoreCompileInputs.cache
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\Ex4.dll
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\refint\Ex4.dll
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\Ex4.pdb
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\Ex4.genruntimeconfig.cache
+d:\UoVT\Sem2\vp\C#\Ex4\obj\Debug\net6.0\ref\Ex4.dll

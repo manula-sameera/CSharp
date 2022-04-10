@@ -1,0 +1,15 @@
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\Ex7.csproj.AssemblyReference.cache
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\Ex7.GeneratedMSBuildEditorConfig.editorconfig
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\Ex7.AssemblyInfoInputs.cache
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\Ex7.AssemblyInfo.cs
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\Ex7.csproj.CoreCompileInputs.cache
+d:\UoVT\Sem2\vp\C#\Ex7\bin\Debug\net6.0\Ex7.exe
+d:\UoVT\Sem2\vp\C#\Ex7\bin\Debug\net6.0\Ex7.deps.json
+d:\UoVT\Sem2\vp\C#\Ex7\bin\Debug\net6.0\Ex7.runtimeconfig.json
+d:\UoVT\Sem2\vp\C#\Ex7\bin\Debug\net6.0\Ex7.dll
+d:\UoVT\Sem2\vp\C#\Ex7\bin\Debug\net6.0\Ex7.pdb
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\Ex7.dll
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\refint\Ex7.dll
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\Ex7.pdb
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\Ex7.genruntimeconfig.cache
+d:\UoVT\Sem2\vp\C#\Ex7\obj\Debug\net6.0\ref\Ex7.dll

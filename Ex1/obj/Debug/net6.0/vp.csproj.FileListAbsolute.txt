@@ -1,0 +1,15 @@
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\vp.csproj.AssemblyReference.cache
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\vp.GeneratedMSBuildEditorConfig.editorconfig
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\vp.AssemblyInfoInputs.cache
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\vp.AssemblyInfo.cs
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\vp.csproj.CoreCompileInputs.cache
+D:\UoVT\Sem2\vp\bin\Debug\net6.0\vp.exe
+D:\UoVT\Sem2\vp\bin\Debug\net6.0\vp.deps.json
+D:\UoVT\Sem2\vp\bin\Debug\net6.0\vp.runtimeconfig.json
+D:\UoVT\Sem2\vp\bin\Debug\net6.0\vp.dll
+D:\UoVT\Sem2\vp\bin\Debug\net6.0\vp.pdb
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\vp.dll
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\refint\vp.dll
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\vp.pdb
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\vp.genruntimeconfig.cache
+D:\UoVT\Sem2\vp\obj\Debug\net6.0\ref\vp.dll
