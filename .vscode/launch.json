@@ -26,10 +26,10 @@
             "WARNING16": "button at the bottom of this file.",
             "WARNING17": "*********************************************************************************",
             "preLaunchTask": "build",
-            "program": "${fileDirname}/bin/Debug/net6.0/${relativeFileDirname}.dll",
+            "program": "${fileDirname}/bin/Debug/net6.0/${command:extension.commandvariable.file.fileDirBasename}.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {

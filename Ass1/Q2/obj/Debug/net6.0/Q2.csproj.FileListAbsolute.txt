@@ -1,0 +1,15 @@
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\bin\Debug\net6.0\Q2.exe
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\bin\Debug\net6.0\Q2.deps.json
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\bin\Debug\net6.0\Q2.runtimeconfig.json
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\bin\Debug\net6.0\Q2.dll
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\bin\Debug\net6.0\Q2.pdb
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\Q2.csproj.AssemblyReference.cache
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\Q2.AssemblyInfoInputs.cache
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\Q2.AssemblyInfo.cs
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\Q2.csproj.CoreCompileInputs.cache
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\Q2.dll
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\refint\Q2.dll
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\Q2.pdb
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\Q2.genruntimeconfig.cache
+d:\UoVT\Sem2\vp\C#\Ass1\Q2\obj\Debug\net6.0\ref\Q2.dll
