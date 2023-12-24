@@ -1,0 +1,15 @@
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\ass2.csproj.AssemblyReference.cache
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\ass2.GeneratedMSBuildEditorConfig.editorconfig
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\ass2.AssemblyInfoInputs.cache
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\ass2.AssemblyInfo.cs
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\ass2.csproj.CoreCompileInputs.cache
+d:\UoVT\Sem2\vp\C#\ass2\bin\Debug\net6.0\ass2.exe
+d:\UoVT\Sem2\vp\C#\ass2\bin\Debug\net6.0\ass2.deps.json
+d:\UoVT\Sem2\vp\C#\ass2\bin\Debug\net6.0\ass2.runtimeconfig.json
+d:\UoVT\Sem2\vp\C#\ass2\bin\Debug\net6.0\ass2.dll
+d:\UoVT\Sem2\vp\C#\ass2\bin\Debug\net6.0\ass2.pdb
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\ass2.dll
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\refint\ass2.dll
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\ass2.pdb
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\ass2.genruntimeconfig.cache
+d:\UoVT\Sem2\vp\C#\ass2\obj\Debug\net6.0\ref\ass2.dll

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "d:\\UoVT\\Sem2\\vp\\C#\\Ex5\\Ex5.csproj": {}
+    "D:\\UoVT\\Sem2\\vp\\C#\\Ex5\\Ex5.csproj": {}
   },
   "projects": {
-    "d:\\UoVT\\Sem2\\vp\\C#\\Ex5\\Ex5.csproj": {
+    "D:\\UoVT\\Sem2\\vp\\C#\\Ex5\\Ex5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\UoVT\\Sem2\\vp\\C#\\Ex5\\Ex5.csproj",
+        "projectUniqueName": "D:\\UoVT\\Sem2\\vp\\C#\\Ex5\\Ex5.csproj",
         "projectName": "Ex5",
-        "projectPath": "d:\\UoVT\\Sem2\\vp\\C#\\Ex5\\Ex5.csproj",
+        "projectPath": "D:\\UoVT\\Sem2\\vp\\C#\\Ex5\\Ex5.csproj",
         "packagesPath": "C:\\Users\\manul\\.nuget\\packages\\",
-        "outputPath": "d:\\UoVT\\Sem2\\vp\\C#\\Ex5\\obj\\",
+        "outputPath": "D:\\UoVT\\Sem2\\vp\\C#\\Ex5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\manul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\manul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
